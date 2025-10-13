@@ -48,7 +48,7 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
   - Staff can add, remove, or update flower items easily.
 
 - **Reward System**  
-  - Customers earn points equal to `100 × book price`, which can be redeemed on future purchases.
+  - Customers earn points equal to `100 × flower price`, which can be redeemed on future purchases.
 
 ---
 
