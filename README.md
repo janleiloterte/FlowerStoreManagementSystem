@@ -22,10 +22,10 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 ![Staff Dashboard](screenshots/menuscreen.PNG)
 
 ### 🌸 Customer Management
-![Customer Management](screenshots/ownercustomerscreen.PNG)
+![Customer Management](screenshots/ownercustomer.PNG)
 
 ### 🌸 Inventory Management
-![Inventory Management](screenshots/ownerflowerscreen.PNG)
+![Inventory Management](screenshots/ownerflower.PNG)
 
 ---
 
