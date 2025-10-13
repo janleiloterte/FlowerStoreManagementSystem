@@ -13,22 +13,19 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 ## 🖼️ Screenshots
 
 ### 🏠 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/loginscreen.png)
 
 ### 🌼 Customer Dashboard
-![Customer Dashboard](screenshots/customer_dashboard.png)
-
-### 🛍️ Flower Catalog
-![Flower Catalog](screenshots/flower_catalog.png)
-
-### 💳 Purchase & Redeem Points
-![Purchase Page](screenshots/purchase.png)
+![Customer Dashboard](screenshots/customerscreen.png)
 
 ### 🧑‍💼 Staff Dashboard
-![Staff Dashboard](screenshots/staff_dashboard.png)
+![Staff Dashboard](screenshots/menuscreen.png)
+
+### 🌸 Customer Management
+![Customer Management](screenshots/ownercustomerscreen.png)
 
 ### 🌸 Inventory Management
-![Inventory Page](screenshots/inventory.png)
+![Inventory Management](screenshots/ownerflowerscreen.png)
 
 ---
 
