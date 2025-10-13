@@ -6,8 +6,7 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 ---
 
 ## 🎥 Demo
-[▶️ Watch the Demo Video](#)  
-(*Coming soon — or replace `#` with your YouTube link once uploaded!*)  
+[▶️ Watch the Demo Video](#)   
 
 ---
 
@@ -57,11 +56,5 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 
 - **Java**
 - **JavaFX**
-- **Scene Builder**
 - **State Design Pattern**
 - **File I/O (Text-based persistence)**
-
----
-
-## 🗂️ Project Structure
-
