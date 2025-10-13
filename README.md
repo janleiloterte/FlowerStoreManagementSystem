@@ -13,19 +13,19 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 ## 🖼️ Screenshots
 
 ### 🏠 Login Page
-![Login Page](screenshots/loginscreen.png)
+![Login Page](screenshots/loginscreen.PNG)
 
 ### 🌼 Customer Dashboard
-![Customer Dashboard](screenshots/customerscreen.png)
+![Customer Dashboard](screenshots/customerscreen.PNG)
 
 ### 🧑‍💼 Staff Dashboard
-![Staff Dashboard](screenshots/menuscreen.png)
+![Staff Dashboard](screenshots/menuscreen.PNG)
 
 ### 🌸 Customer Management
-![Customer Management](screenshots/ownercustomerscreen.png)
+![Customer Management](screenshots/ownercustomerscreen.PNG)
 
 ### 🌸 Inventory Management
-![Inventory Management](screenshots/ownerflowerscreen.png)
+![Inventory Management](screenshots/ownerflowerscreen.PNG)
 
 ---
 
