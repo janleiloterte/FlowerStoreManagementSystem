@@ -1,12 +1,7 @@
 # 🌸 Flower Store Management System
 
 A **JavaFX-based desktop application** designed for managing a flower store with clear separation of **UI**, **business logic**, and **data handling**.  
-Supports **role-based login** for staff and customers, dynamic **reward status updates** using the **State Design Pattern**, and persistent storage through **file I/O**.
-
----
-
-## 🎥 Demo
-[▶️ Watch the Demo Video](#)   
+Supports **role-based login** for staff and customers, dynamic **reward status updates** using the **State Design Pattern**, and persistent storage through **file I/O**.  
 
 ---
 
