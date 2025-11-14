@@ -9,7 +9,7 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 ## 🖼️ Screenshots
 
 ### 🏠 Login Page
-(screenshots/loginscreen.PNG)
+<img src="screenshots/loginscreen.PNG" />
 
 ### 🌼 Customer Dashboard
 (screenshots/customerscreen.PNG)
