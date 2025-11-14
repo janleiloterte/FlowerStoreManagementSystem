@@ -12,16 +12,16 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 <img src="screenshots/loginscreen.PNG" />
 
 ### 🌼 Customer Dashboard
-(screenshots/customerscreen.PNG)
+<img src="screenshots/customerscreen.PNG" />
 
 ### 🧑‍💼 Staff Dashboard
-(screenshots/menuscreen.PNG)
+<img src="screenshots/menuscreen.PNG" />
 
 ### 🌸 Customer Management
-(screenshots/ownercustomer.PNG)
+<img src="screenshots/ownercustomer.PNG" />
 
 ### 🌸 Inventory Management
-(screenshots/ownerflower.PNG)
+<img src="screenshots/ownerflower.PNG" />
 
 ---
 
