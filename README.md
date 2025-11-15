@@ -8,7 +8,7 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 
 ## ▶️ Demo
 
-[![Demo Video]](https://youtu.be/tlcOhIObEFg)
+[![Demo Video](screenshots/thumbnail.jpg)](https://youtu.be/tlcOhIObEFg)
 
 ---
 
