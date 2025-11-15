@@ -6,6 +6,12 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 
 ---
 
+## ▶️ Demo
+
+[![Demo Video]]((https://youtu.be/tlcOhIObEFg))
+
+---
+
 ## 🖼️ Screenshots
 
 ### 🏠 Login Page
