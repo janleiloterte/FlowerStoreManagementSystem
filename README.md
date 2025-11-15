@@ -10,7 +10,7 @@ Supports **role-based login** for staff and customers, dynamic **reward status u
 
 [![Demo Video](screenshots/thumbnail.jpg)](https://youtu.be/tlcOhIObEFg)
 
-➡️ [Click here to watch the demo]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/tlcOhIObEFg))
+➡️ [Click here to watch the demo](https://youtu.be/tlcOhIObEFg)
 
 ---
 
